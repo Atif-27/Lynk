@@ -1,6 +1,5 @@
 package com.url.shortener.service;
 
-
 import com.url.shortener.models.User;
 import lombok.Data;
 import lombok.NoArgsConstructor;
